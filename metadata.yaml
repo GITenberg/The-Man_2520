@@ -1,0 +1,32 @@
+_repo: The-Man_2520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stoker, Bram
+    alias: Stoker, Abraham
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '190'
+    url: http://www.gutenberg.org/2009/agents/190
+    wikipedia: http://en.wikipedia.org/wiki/Bram_Stoker
+description: Think straight-up horror was Bram Stoker's only gig? Think again. In
+  The Man, the renowned author of Dracula delves into lush Gothic romance. This tale
+  brings the mystery and intrigue that still delights readers of Dracula into the
+  realm of romance, and will disappoint neither Stoker enthusiasts nor fans of the
+  romantic genre.
+gutenberg_bookshelf: Horror
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: The Man
+url: http://www.gutenberg.org/ebooks/2520
