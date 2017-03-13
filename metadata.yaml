@@ -1,5 +1,8 @@
 _repo: The-Man_2520
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stoker, Bram
@@ -14,6 +17,8 @@ description: Think straight-up horror was Bram Stoker's only gig? Think again. I
   brings the mystery and intrigue that still delights readers of Dracula into the
   realm of romance, and will disappoint neither Stoker enthusiasts nor fans of the
   romantic genre.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2520#The-Man
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
